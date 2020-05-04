@@ -1,3 +1,6 @@
+// To prevent unwanted behaviour like hoisting
+'use strict'
+
 const obj = {
     name:"vishal",
     myFunc:function(){

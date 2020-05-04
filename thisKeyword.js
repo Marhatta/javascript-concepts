@@ -1,4 +1,5 @@
-'use strict'
+// To prevent unwanted behaviour like hoisting
+'use strict' 
 //=======Intro to this keyword=============//
 
 //"this" is the object that the function is a property of.
